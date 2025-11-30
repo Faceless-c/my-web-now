@@ -1,0 +1,134 @@
+body{
+    
+    color: olivedrab;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+.main{display: flex;}
+.google{
+    margin-top: 50px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pics{ margin-top: 20px;
+    width: 150px;
+    display: block;
+    margin-left: auto;}
+.pic{ margin-top: 50px;
+    width: 400px;
+    display: block;
+    margin-left: auto;}
+    .boarder{
+    border:1px solid rgb(243, 59, 203);
+    border-radius: 15px;
+    
+    border: 2px blue dotted;
+    margin-right: auto;}
+    .signup{
+        margin-left: 20px;
+        font-size: 20px;
+    margin-top: 16px;
+       
+    }
+
+.search{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 800px;
+border-radius: 15px;
+height: 40px;
+border: red solid 2px;
+   }
+    .chess{
+        width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .buttons{
+        text-align: center;
+        margin-top: 10px;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+    .btn1{
+        padding: 8px;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 20px;
+        margin-right: 40px;
+        padding: 20px;
+    
+
+    
+    }
+    .btn2{
+         padding: 8px;
+         border-radius: 10px;
+        cursor: pointer;
+        font-size: 20px;
+        padding: 20px;
+    }
+    .text{
+        text-align: justify;
+     
+        margin-left: 50px;
+        margin-right: 50px; 
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 30px;
+        padding: 50px;
+        border: darkblue solid 8px;
+        margin-left: 200px;
+        margin-right: 200px;
+        border-radius: 15px;
+        background-color: lightpink;
+    }
+    .shoes{
+
+        background: rgb(236, 3, 3);
+        border-radius: 14px;
+        padding: 10px;
+        text-align: center; 
+        margin-top: 10px;
+        width: 20%;
+    }
+    .shirts{
+  
+        background: rgb(2, 5, 192);
+        border-radius: 14px;
+        padding: 10px;
+        text-align: center; 
+        margin-top: 10px;
+        width: 20%;
+    }
+    .trousers{
+        background: rgb(39, 158, 2);
+        border-radius: 14px;
+        padding: 10px;
+        text-align: center;
+        margin-top: 10px; 
+        width: 20%;
+    }
+    .items{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 14px;
+        margin-left: 10px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+    .flex{
+        display: flex;
+        padding: 20px;
+        justify-content:space-around;
+        background: lightblue;
+        margin-left: auto;
+        margin-right: auto;
+        width: 450px;
+        border-radius: 15px;
+        border-bottom: 10px purple solid ;
+        
+    }
